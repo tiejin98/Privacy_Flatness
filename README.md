@@ -1,7 +1,7 @@
 # Privacy_Flatness
 
 ## Acknowledgement
-Our code is based [this link](https://github.com/lxuechen/Differentially-Private-Fine-tuning-of-Language-Models). Thanks for their excellent work.
+Our code is based on [link](https://github.com/lxuechen/Differentially-Private-Fine-tuning-of-Language-Models). Thanks for their excellent work.
 
 ## Requirement
 please install all requirement by using ```pip install -r requirements.txt```. We also update peft package with our code. So please replace the original **mapping.py** and **peft_model.py** with the code in this repo.
